@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Cases">
+	<test name="Automation run">
+		<classes>
+			<class name="com.sgtesting.mavendemo.TestCases"></class>
+		</classes>
+	</test>
+</suite>
